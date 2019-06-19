@@ -1,0 +1,66 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+    background-color:indianred;
+    height: 100px;
+    width: 100%;
+   
+
+    
+}
+
+h1 {
+    color: cornflowerblue;
+    font-size: 80px;
+    text-align: right;
+    padding: 25px;
+    border: 25px;
+    margin: 20px;
+    background-color: cornsilk;
+    border-color: darkcyan;
+    border-style: solid;
+
+
+
+
+
+
+}
+li{
+    margin: 0px;
+    text-align: center;
+    background-color: indianred;
+    font-size: 60px;
+    float: left;
+}
+li a{
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+li a:hover {
+    background-color: #111;}
+
+p{
+    background-color: white;
+    color: dimgray;
+    font-size: 40px;
+
+
+
+    
+}    
+.navbar {
+    background-color: rgb(255,255,255)
+
+
+
+}
